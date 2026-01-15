@@ -2,12 +2,6 @@
 
 **Flutter & Blockchain Developer**
 
-<p align="center">
-  <a href="https://github.com/helloxkk?tab=followers">
-    <img src="https://img.shields.io/github/followers/helloxkk?style=social" alt="Followers" />
-  </a>
-</p>
-
 Building cross-platform mobile apps and IoT solutions with a focus on clean architecture and real-time communication.
 
 ---
@@ -54,8 +48,4 @@ Asia · Remote-friendly
 
 <p align="center">
   Open to collaborations on interesting projects
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=helloxkk.helloxkk" alt="visitors" />
 </p>
