@@ -1,4 +1,4 @@
-# Hi, I'm Kun 👋
+# Hi, I'm Kun
 
 **Flutter & Blockchain Developer**
 
@@ -12,7 +12,7 @@ Building cross-platform mobile apps and IoT solutions with a focus on clean arch
 
 ---
 
-## 🛠️ Core Technologies
+## Core Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -26,7 +26,7 @@ Building cross-platform mobile apps and IoT solutions with a focus on clean arch
 
 ---
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
@@ -36,13 +36,13 @@ Building cross-platform mobile apps and IoT solutions with a focus on clean arch
 
 ---
 
-## 🌐 Location
+## Location
 
-Asia · Remote-friendly 🌍
+Asia · Remote-friendly
 
 ---
 
-## 📫 Connect
+## Connect
 
 <p>
   <a href="https://github.com/helloxkk">
@@ -53,7 +53,7 @@ Asia · Remote-friendly 🌍
 ---
 
 <p align="center">
-  <b>⭐️ Open to collaborations on interesting projects</b>
+  Open to collaborations on interesting projects
 </p>
 
 <p align="center">
