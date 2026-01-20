@@ -1,12 +1,12 @@
-# Hi, I'm Kun
+# Hi, I'm Kun 👋
 
-**Flutter & Blockchain Developer**
+**Flutter & Blockchain Developer** | Building cross-platform mobile apps and IoT solutions
 
-Building cross-platform mobile apps and IoT solutions with a focus on clean architecture and real-time communication.
+Focused on clean architecture and real-time communication, passionate about turning ideas into exceptional digital products.
 
 ---
 
-## Core Technologies
+## 🔧 Core Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -20,32 +20,58 @@ Building cross-platform mobile apps and IoT solutions with a focus on clean arch
 
 ---
 
-## Pinned Repositories
+## 🚀 Featured Projects
 
-| Repository | Stars | Description |
-|------------|-------|-------------|
-| [flutter/flutter](https://github.com/flutter/flutter) | ![GitHub stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square) | Flutter makes it easy and fast to build beautiful mobile apps |
-| [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | ![GitHub stars](https://img.shields.io/github/stars/cosmos/cosmos-sdk?style=flat-square) | Blockchain Framework in Go |
-| [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | ![GitHub stars](https://img.shields.io/github/stars/PhilJay/MPAndroidChart?style=flat-square) | A powerful Android chart view library |
-
----
-
-## Location
-
-Asia · Remote-friendly
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [flutter-desk](https://github.com/helloxkk/flutter-desk) | Flutter, Dart | Flutter desktop application framework |
+| [View More](https://github.com/helloxkk?tab=repositories) | - | Browse all repositories |
 
 ---
 
-## Connect
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helloxkk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloxkk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 Location
+
+Asia | 🌏 Remote-friendly
+
+---
+
+## 🔗 Connect
 
 <p>
   <a href="https://github.com/helloxkk">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="20" />
+    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
+## 💬 About Me
+
+- 🎯 Focused on cross-platform mobile app development
+- 🔗 Deep interest in blockchain technology and decentralized applications
+- 🌱 Continuously learning new technologies with enthusiasm
+- 💡 Active contributor to open source communities
+
+---
+
 <p align="center">
-  Open to collaborations on interesting projects
+  ✨ Open to collaborations on interesting projects! ✨
 </p>
